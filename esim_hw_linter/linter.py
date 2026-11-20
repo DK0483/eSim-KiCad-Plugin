@@ -1,3 +1,11 @@
+"""
+eSim KiCad Plugin Suite - Hardware Security & DevSecOps Linter
+Author: Dhyey Kabra
+Task 6: KiCad Plugin Development (CSE and Related Fields)
+eSim Semester Long Internship - Autumn 2026
+Compatible with KiCad 9.0+
+"""
+
 import pcbnew
 import wx
 import math

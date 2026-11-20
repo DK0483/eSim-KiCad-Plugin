@@ -1,3 +1,11 @@
+"""
+eSim KiCad Plugin Suite - Analysis & DFM Metric Utilities
+Author: Dhyey Kabra
+Task 6: KiCad Plugin Development (CSE and Related Fields)
+eSim Semester Long Internship - Autumn 2026
+Compatible with KiCad 9.0+
+"""
+
 import numpy as np
 
 

@@ -37,10 +37,10 @@ A KiCad plugin that analyzes PCB designs to identify manufacturing risks, therma
 
 ## Installation
 
-1. Place the entire `pcb_risk_analyzer` folder in your KiCad plugins directory:
-   ```
-   ~/.local/share/kicad/8.0/scripting/plugins/
-   ```
+1. Place the entire `pcb_manufacturability_risk_analyzer` folder in your KiCad plugins directory:
+   - **Linux:** `~/.local/share/kicad/9.0/scripting/plugins/`
+   - **Windows:** `%USERPROFILE%\Documents\KiCad\9.0\scripting\plugins\`
+   - **macOS:** `~/Documents/KiCad/9.0/scripting/plugins/`
 
 2. Restart KiCad to load the plugin
 
@@ -242,7 +242,7 @@ The analysis generates:
 ## Project Structure
 
 ```
-pcb_risk_analyzer/
+pcb_manufacturability_risk_analyzer/
 ├── plugin.py              # Main KiCad plugin interface
 ├── analysis_utils.py      # Utility functions for PCB analysis
 ├── heatmap.py             # Heatmap generation algorithms
@@ -252,7 +252,7 @@ pcb_risk_analyzer/
 
 ## Requirements
 
-- KiCad 8.0 or later
+- KiCad 9.0 or later (KiCad 8.0 also supported)
 - Python 3.x (included with KiCad)
 - NumPy (for numerical analysis)
 - Matplotlib (for visualization)

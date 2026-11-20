@@ -4,7 +4,7 @@
 [![KiCad Version](https://img.shields.io/badge/KiCad-9.0%20%7C%208.0-blue?style=for-the-badge&logo=kicad)](https://kicad.org)
 [![Python Version](https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12-yellow?style=for-the-badge&logo=python)](https://python.org)
 [![FOSSEE eSim](https://img.shields.io/badge/FOSSEE-eSim-orange?style=for-the-badge)](https://esim.fossee.in/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-green?style=for-the-badge)](LICENSE)
 
 An intelligent, multi-module plugin suite developed for **KiCad 9** and the **FOSSEE eSim** ecosystem. The suite bridges Computer Science algorithms with physical Electronics principles to provide real-time Design-for-Manufacturability (DFM), electro-thermal, EMI risk analysis, and physical IoT hardware security auditing.
 

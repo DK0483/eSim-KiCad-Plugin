@@ -1,3 +1,11 @@
+"""
+eSim KiCad Plugin Suite - Smart PCB Manufacturability Analyzer
+Author: Dhyey Kabra
+Task 6: KiCad Plugin Development (CSE and Related Fields)
+eSim Semester Long Internship - Autumn 2026
+Compatible with KiCad 9.0+
+"""
+
 import pcbnew
 import wx
 import wx.lib.scrolledpanel as scrolled
